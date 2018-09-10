@@ -35,8 +35,13 @@ TODO
 
 TODO
 
-- prior is local - how to deal with seasonality?
+- prior is local - how to deal with seasonality (maybe we don't - because it's relative difference between them - and police resources are constant... )
 - calculate likelihood and posterior for each Borough on burglary
 - calculate KL divergence between prior and posterior for each Borough on burglary
+
+### Optimal amount of months to use for prior
+
+TODO
+- refer to airbnb
 
 # Conclusions
