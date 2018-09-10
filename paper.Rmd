@@ -1,0 +1,42 @@
+---
+title: "Police Data Bayes Surprise"
+author: "Reka Solymosi & Nick Malleson"
+date: "10/09/2018"
+output: html_document
+---
+
+# Intro
+
+# Background
+
+# Bayesian Surprise
+
+# Surprise mapping
+
+## Demo
+
+### England LADs
+
+TODO
+
+- prior is global
+- calculate likelihood and posterior for each LAD on burglary
+- calculate KL divergence between prior and posterior for each LAD on burglary
+
+### London Boroughs
+
+TODO
+
+- prior is global
+- calculate likelihood and posterior for each Borough on burglary
+- calculate KL divergence between prior and posterior for each Borough on burglary
+
+## Emerging areas
+
+TODO
+
+- prior is local - how to deal with seasonality?
+- calculate likelihood and posterior for each Borough on burglary
+- calculate KL divergence between prior and posterior for each Borough on burglary
+
+# Conclusions
